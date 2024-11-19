@@ -1,0 +1,25 @@
+@charset "UTf-8";
+
+h3{
+    color: white;
+    text-decoration: underline white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.back{
+    background-color: rgb(167, 134, 134);
+    width: 400px;
+    margin: auto;
+    border-radius: 30px;
+    
+}
+
+body{
+    background-color: rgb(36, 36, 128);
+    height: 100vh;
+    background: linear-gradient();
+    background-image: url(index/Imagem\ do\ WhatsApp\ de\ 2024-11-18\ à\(s\)\ 18.00.40_84df2eb8.jpg);
+    background-position: center center;
+    background-repeat:no-repeat;
+    background-size: contain ;    
+}
